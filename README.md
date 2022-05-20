@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Marco!
-I'm a full stack web developer, comunication graduate, graphic design amateur, music enthusiast, soccer fan, lego player, videogames nerd, basically curious about everything!
+I'm a full stack web developer, comunication graduate, graphic design amateur, music enthusiast, soccer fan, lego player, videogames nerd, movie watcher, basically curious about everything!
 
 ## Things I think I know
 - HTML
@@ -16,6 +16,16 @@ I'm a full stack web developer, comunication graduate, graphic design amateur, m
 - My routine
 - Tennis
 
+
+░░░░▄░░░░░░▄    
+░░░▐▒▀▄▄▄▄▀▒▌   
+░░▄▀▒▒▒▒▒▒▒▒▓▀▄  
+░▄▀░█░░░░█░░▒▒▒▐  
+░▌░░░░░░░░░░░▒▒▐  
+░▌▒░██▒▒░░░░░░░▐  
+░▌▒░▓▓▒▒▒░░░░░▄▀
+░▀▄░▀▀▀▀░░░░▄▀    
+░░░▀▀▄▄▄▄▄▀▀       
 
 
 <!--
