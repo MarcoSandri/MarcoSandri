@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Marco!
+I'm a full stack web developer, comunication graduate, graphic design amateur, music enthusiast, soccer fan, lego player, videogames nerd, basically curious about everything!
+
 
 <!--
 **MarcoSandri/MarcoSandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
