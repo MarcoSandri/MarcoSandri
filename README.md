@@ -1,20 +1,4 @@
 ## Hi there 👋 I'm Marco!
-I'm a full stack web developer, comunication graduate, graphic design amateur, music enthusiast, soccer fan, lego player, videogames nerd, movie watcher, basically curious about everything!
-
-### Things I think I ✨know✨
-- HTML
-- CSS
-- Javascript
-- PHP
-- VueJS
-- Laravel
-- MySQL
-
-### Things I would like to get 😰better😰 at
-- Coding with all of the [above](#things-i-think-i-know)
-- Coding with all of the rest
-- My routine
-- Tennis
 
 ```
         ⢀⣠⣤⣶⣶⣶⣤⣄  ⢀⣠⣤⣤⣤⣤⣀
